@@ -1,0 +1,6 @@
+{
+  "name": "Papugarnia Olsztyn",
+  "description": "Luksusowy, nowoczesny landing page dla Papugarni Olsztyn inspirowany stylem Louisa Ansy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
